@@ -1,0 +1,79 @@
+#oldal {
+    background-color: #ddffff;
+    color: #004400;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 5px 5px 8px grey;
+    width: 50%;
+    border-radius: 5px;
+    padding: 10px; 
+    position: relative;
+    margin: auto;
+}
+h2 {
+    font-family: 'Monotype Corsiva'
+}
+
+#cim {
+    background-color: #addfce;
+    text-align: center;
+    border: solid 1px gray;
+    margin: auto;
+    outline: 6px outset #777;
+    outline-offset: 4px;
+    width: 65%
+}
+
+#jobb {
+    float: right;
+}
+td {
+    background-color: #addfce;
+}
+th {
+    background-color: rgb(31,240, 30);
+}
+
+table {
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+
+#also {
+    padding: 5px;
+    outline: 3px outset #777;
+    outline-offset: 1px;
+    height: 50px;
+}
+
+#also td{
+    border: solid 1px #004400;
+}
+#nagyul {
+    border-bottom: #004400 solid 2px;
+    padding: 20px;
+}
+
+#kisdiv {
+    border-bottom: #004000 solid 2px;
+    padding: 20px;
+    text-align: center;
+}
+
+#avtd {
+    border-bottom: rgb(31,240, 30) solid 10px;
+    padding: 2px;
+}
+#jobbp {
+    float: right;
+}
+
+img {
+    width: 20%;
+    float: left;
+    padding-right: 20px;
+}
+
+ul {
+    list-style: disc;
+}
